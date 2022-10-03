@@ -1,0 +1,98 @@
+[
+ {
+   "CustomerID": 29877,
+   "FirstName": "Joyce",
+   "LastName": "Jarvis",
+   "Notas": 65
+ },
+ {
+   "CustomerID": 29922,
+   "FirstName": "Pamala",
+   "LastName": "Kotc",
+   "Notas": 10
+ },
+ {
+   "CustomerID": 29929,
+   "FirstName": "Jeffrey",
+   "LastName": "Kurtz",
+   "Notas": 100
+ },
+ {
+   "CustomerID": 29932,
+   "FirstName": "Rebecca",
+   "LastName": "Laszlo",
+   "Notas": 33
+ },
+ {
+   "CustomerID": 29938,
+   "FirstName": "Frank",
+   "LastName": "Campbell",
+   "Notas": 69
+ },
+ {
+   "CustomerID": 29957,
+   "FirstName": "Kevin",
+   "LastName": "Liu",
+   "Notas": 76
+ },
+ {
+   "CustomerID": 29975,
+   "FirstName": "Walter",
+   "LastName": "Mays",
+   "Notas": 89
+ },
+ {
+   "CustomerID": 29982,
+   "FirstName": "Melissa",
+   "LastName": "Marple",
+   "Notas": 97
+ },
+ {
+   "CustomerID": 30019,
+   "FirstName": "Matthew",
+   "LastName": "Miller",
+   "Notas": 48
+ },
+ {
+   "CustomerID": 30025,
+   "FirstName": "Linda",
+   "LastName": "Mitchell",
+   "Notas": 89
+ },
+ {
+   "CustomerID": 30027,
+   "FirstName": "Joseph",
+   "LastName": "Mitzner",
+   "Notas": 0
+ },
+ {
+   "CustomerID": 30033,
+   "FirstName": "Vassar",
+   "LastName": "Stern",
+   "Notas": 45
+ },
+ {
+   "CustomerID": 30050,
+   "FirstName": "Krishna",
+   "LastName": "Sunkammurali",
+   "Notas": 68
+ },
+ {
+   "CustomerID": 30072,
+   "FirstName": "Andrea",
+   "LastName": "Thomsen",
+   "Notas": 49
+ },
+ {
+   "CustomerID": 30089,
+   "FirstName": "Michael John",
+   "LastName": "Troyer",
+   "Notas": 40
+ },
+ {
+   "CustomerID": 30102,
+   "FirstName": "Roger",
+   "LastName": "Van Houten",
+   "Notas": 66
+ }
+]
